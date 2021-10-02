@@ -5,6 +5,5 @@ The website allows users to enter a word and it will translate then populate a p
 
 I completed the challenge: 5
 I feel good about my code: 4
-<img src=“Scrn.jpeg” width=90%>
 
 ![Scrn.jpeg](Scrn.jpeg)
